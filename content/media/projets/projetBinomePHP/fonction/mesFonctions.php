@@ -4,8 +4,7 @@
     {
         $comptes = array
         (
-            "Sébastien" => "1234",
-            "Laily" => "4321",
+            "admin" => "1234",
             "afpar" => "afpar"
         );
 
